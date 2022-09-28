@@ -14,3 +14,6 @@ html, body {
   border: 3px solid lightblue;
   padding: 10px;
 }
+body {
+  background-color: rgb(0,100,250);
+}
