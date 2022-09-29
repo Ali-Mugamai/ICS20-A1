@@ -9,10 +9,6 @@ h1 {
   margin-left: auto;
   margin-right: auto;
   width: 50%;
-}
-.center {
-  margin: auto;
-  width: 50%;
   border: 3px solid #2e93ff;
   padding: 10px;
 }
